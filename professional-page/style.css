@@ -116,7 +116,7 @@ header p {
 header img {
   width: 58%;
   margin-right: -22%;
-  transform: translateY(-545px);
+  transform: translateY(-595px);
   align-self: flex-end;
 }
 header ul {
@@ -128,7 +128,7 @@ header ul {
   padding: 1em 0.6em;
   order: -1;
   margin-right: -25.5%;
-  transform: translateY(-125px);
+  transform: translateY(-140px);
   z-index: 5;
 }
 
